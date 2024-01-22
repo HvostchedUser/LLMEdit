@@ -11,5 +11,6 @@ The corresponging substrings in the texts are highlighted so you can easily find
 
 ## Setup
 1. Install the packages specified in the requirements.txt with pip utility
-2. Download the language model in GGUF format and place it in the same folder as the .py file. I recommend [TheBloke/dolphin-2_6-phi-2-GGUF](https://huggingface.co/TheBloke/dolphin-2_6-phi-2-GGUF) since it is fast and has a nice performance ;)
+2. Download the language model in GGUF format and place it in the same folder as the .py file. Its name should be "model.gguf". I recommend downlodading [TheBloke/dolphin-2_6-phi-2-GGUF](https://huggingface.co/TheBloke/dolphin-2_6-phi-2-GGUF) since it is fast and has a nice performance ;)
 
+...the project was initially done in an evening with some help from coding LLMs
