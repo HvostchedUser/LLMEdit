@@ -242,7 +242,7 @@ def on_text_select_all(event):
 
 # Large Language Model Initialisation
 llm = Llama(
-    model_path="dolphin-2_6-phi-2.Q4_K_M.gguf",
+    model_path="model.gguf",
     verbose=False,
     n_ctx=2048
 )
